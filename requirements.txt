@@ -1,0 +1,17 @@
+fastapi==0.110.1
+pydantic==2.7.0
+pydantic-settings==2.2.1
+uvicorn
+python-dotenv
+pymongo
+motor
+passlib==1.7.4
+bcrypt==3.2.2
+PyJWT==2.9.0
+elasticsearch[async]==7.16.2
+python-multipart
+boto3
+aioredis
+python-dateutil
+loguru
+cryptography==43.0.1
